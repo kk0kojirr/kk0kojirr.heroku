@@ -1,0 +1,22 @@
+{
+  "name": "koj-heroku1",
+  "version": "0.0.0",
+  "description": "koj-heroku1",
+  "main": "index.js",
+  "engines": {
+    "node": "6"
+  },
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kk0kojirr/kk0kojirr.heroku"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "koj",
+  "license": "MIT"
+}
